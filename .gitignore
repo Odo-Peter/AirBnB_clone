@@ -1,3 +1,5 @@
 # Ignore backup and buffer files from emacs editor
 *~
 *#
+/web_static/validate
+/web_static/W3C-Validator
